@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Twitter/Server/cJSON.h
+stddef.h
+-
+
+D:/Twitter/Server/server.c
+twitter2.h
+D:/Twitter/Server/twitter2.h
+
+D:/Twitter/Server/twitter2.h
+stdio.h
+-
+winsock2.h
+-
+string.h
+-
+dirent.h
+-
+time.h
+-
+conio.h
+-
+cJSON.h
+D:/Twitter/Server/cJSON.h
+
